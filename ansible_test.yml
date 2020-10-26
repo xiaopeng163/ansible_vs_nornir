@@ -2,6 +2,7 @@
 - hosts: all
   connection: local
   gather_facts: no
+  no_log: True
   tasks:
     - name: Generate template
       template:
