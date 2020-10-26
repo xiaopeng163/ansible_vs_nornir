@@ -1,0 +1,8000 @@
+r1.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 118.4.155.118
+  hostname: r1.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r10.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 203.19.124.4
+  hostname: r10.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r100.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 7.175.108.205
+  hostname: r100.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r1000.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 182.24.219.79
+  hostname: r1000.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r101.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 2.160.133.155
+  hostname: r101.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r102.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 177.237.28.100
+  hostname: r102.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r103.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 20.208.180.100
+  hostname: r103.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r104.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 99.58.179.158
+  hostname: r104.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r105.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 214.62.57.143
+  hostname: r105.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r106.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 117.198.66.71
+  hostname: r106.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r107.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 140.201.104.152
+  hostname: r107.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r108.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 37.40.147.172
+  hostname: r108.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r109.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 197.143.210.203
+  hostname: r109.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r11.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.210.89.88
+  hostname: r11.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r110.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 122.71.194.39
+  hostname: r110.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r111.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 172.169.128.2
+  hostname: r111.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r112.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 42.154.43.100
+  hostname: r112.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r113.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 174.180.21.89
+  hostname: r113.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r114.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 80.56.228.75
+  hostname: r114.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r115.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 20.72.247.27
+  hostname: r115.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r116.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.217.158.23
+  hostname: r116.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r117.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 91.232.29.81
+  hostname: r117.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r118.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 146.100.204.23
+  hostname: r118.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r119.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 20.106.137.239
+  hostname: r119.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r12.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 69.223.166.46
+  hostname: r12.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r120.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 67.136.214.148
+  hostname: r120.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r121.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 12.101.181.17
+  hostname: r121.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r122.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 221.30.34.93
+  hostname: r122.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r123.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 212.210.61.122
+  hostname: r123.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r124.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 42.172.64.149
+  hostname: r124.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r125.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 45.68.184.11
+  hostname: r125.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r126.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 102.18.120.24
+  hostname: r126.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r127.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 48.248.10.193
+  hostname: r127.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r128.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 74.184.151.90
+  hostname: r128.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r129.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 86.181.185.161
+  hostname: r129.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r13.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 190.43.253.206
+  hostname: r13.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r130.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 25.64.155.172
+  hostname: r130.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r131.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 66.28.106.157
+  hostname: r131.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r132.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 123.253.243.106
+  hostname: r132.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r133.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 207.96.217.102
+  hostname: r133.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r134.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 77.229.28.23
+  hostname: r134.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r135.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 61.148.18.63
+  hostname: r135.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r136.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 56.85.55.55
+  hostname: r136.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r137.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 12.58.188.187
+  hostname: r137.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r138.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.49.81.211
+  hostname: r138.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r139.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 21.173.167.114
+  hostname: r139.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r14.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 23.217.71.249
+  hostname: r14.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r140.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.203.182.185
+  hostname: r140.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r141.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 193.110.85.99
+  hostname: r141.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r142.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 191.69.18.192
+  hostname: r142.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r143.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 186.44.131.88
+  hostname: r143.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r144.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 108.125.11.118
+  hostname: r144.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r145.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 93.26.102.53
+  hostname: r145.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r146.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 17.225.169.92
+  hostname: r146.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r147.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 158.172.196.167
+  hostname: r147.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r148.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 208.157.107.12
+  hostname: r148.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r149.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 201.110.123.76
+  hostname: r149.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r15.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 217.104.234.126
+  hostname: r15.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r150.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 6.74.234.209
+  hostname: r150.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r151.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 56.42.65.96
+  hostname: r151.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r152.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 223.116.132.227
+  hostname: r152.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r153.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 44.255.98.217
+  hostname: r153.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r154.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.109.13.159
+  hostname: r154.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r155.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 202.12.238.211
+  hostname: r155.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r156.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 14.249.228.254
+  hostname: r156.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r157.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 31.93.1.175
+  hostname: r157.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r158.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 20.12.21.177
+  hostname: r158.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r159.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 198.198.116.128
+  hostname: r159.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r16.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 65.197.8.126
+  hostname: r16.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r160.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 180.3.10.208
+  hostname: r160.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r161.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 51.7.14.168
+  hostname: r161.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r162.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.103.111.175
+  hostname: r162.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r163.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 122.85.95.171
+  hostname: r163.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r164.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 58.117.86.24
+  hostname: r164.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r165.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 28.114.19.40
+  hostname: r165.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r166.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 169.20.11.65
+  hostname: r166.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r167.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 63.91.56.74
+  hostname: r167.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r168.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 114.81.247.207
+  hostname: r168.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r169.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 29.217.209.71
+  hostname: r169.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r17.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 40.109.255.231
+  hostname: r17.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r170.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 156.109.226.146
+  hostname: r170.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r171.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.168.44.169
+  hostname: r171.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r172.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 115.254.239.246
+  hostname: r172.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r173.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 212.52.141.229
+  hostname: r173.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r174.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.216.135.233
+  hostname: r174.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r175.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 174.107.75.179
+  hostname: r175.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r176.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 28.47.37.199
+  hostname: r176.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r177.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 160.136.11.99
+  hostname: r177.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r178.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 153.240.108.219
+  hostname: r178.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r179.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 25.9.197.92
+  hostname: r179.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r18.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 169.97.100.214
+  hostname: r18.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r180.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 129.224.99.191
+  hostname: r180.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r181.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 15.166.9.151
+  hostname: r181.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r182.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 176.100.92.162
+  hostname: r182.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r183.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 85.238.15.44
+  hostname: r183.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r184.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 181.80.139.179
+  hostname: r184.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r185.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 106.85.223.251
+  hostname: r185.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r186.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 184.156.137.208
+  hostname: r186.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r187.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 9.242.181.113
+  hostname: r187.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r188.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.191.233.195
+  hostname: r188.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r189.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.94.79.104
+  hostname: r189.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r19.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.102.139.118
+  hostname: r19.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r190.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 32.21.243.158
+  hostname: r190.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r191.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 86.173.254.82
+  hostname: r191.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r192.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 34.140.151.68
+  hostname: r192.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r193.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.139.36.20
+  hostname: r193.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r194.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 143.51.197.188
+  hostname: r194.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r195.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 177.174.43.129
+  hostname: r195.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r196.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 142.183.189.24
+  hostname: r196.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r197.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.218.15.174
+  hostname: r197.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r198.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 126.117.2.128
+  hostname: r198.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r199.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 63.38.89.142
+  hostname: r199.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r2.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 146.107.76.48
+  hostname: r2.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r20.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 18.75.43.199
+  hostname: r20.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r200.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 134.7.248.248
+  hostname: r200.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r201.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 2.103.184.201
+  hostname: r201.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r202.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 91.182.5.145
+  hostname: r202.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r203.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 20.57.65.68
+  hostname: r203.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r204.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.220.30.39
+  hostname: r204.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r205.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 92.250.85.181
+  hostname: r205.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r206.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 136.110.150.207
+  hostname: r206.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r207.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 12.154.121.118
+  hostname: r207.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r208.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 150.200.35.192
+  hostname: r208.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r209.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.94.2.230
+  hostname: r209.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r21.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 36.25.186.20
+  hostname: r21.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r210.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.148.205.23
+  hostname: r210.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r211.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 49.198.58.79
+  hostname: r211.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r212.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.204.233.104
+  hostname: r212.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r213.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 94.242.182.253
+  hostname: r213.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r214.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 199.213.135.221
+  hostname: r214.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r215.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 161.115.9.38
+  hostname: r215.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r216.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 4.210.174.240
+  hostname: r216.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r217.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 108.70.82.80
+  hostname: r217.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r218.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 172.123.161.131
+  hostname: r218.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r219.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 109.35.25.203
+  hostname: r219.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r22.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 27.50.159.169
+  hostname: r22.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r220.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 92.247.245.196
+  hostname: r220.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r221.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 30.115.141.34
+  hostname: r221.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r222.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 38.83.39.236
+  hostname: r222.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r223.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.181.114.66
+  hostname: r223.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r224.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.15.102.129
+  hostname: r224.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r225.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 93.158.252.229
+  hostname: r225.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r226.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 99.229.241.139
+  hostname: r226.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r227.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 60.6.217.70
+  hostname: r227.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r228.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 134.130.146.169
+  hostname: r228.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r229.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 119.182.76.11
+  hostname: r229.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r23.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 67.137.4.152
+  hostname: r23.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r230.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 144.107.5.245
+  hostname: r230.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r231.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 83.187.44.146
+  hostname: r231.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r232.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 50.61.96.244
+  hostname: r232.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r233.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 72.211.4.154
+  hostname: r233.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r234.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 184.211.147.40
+  hostname: r234.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r235.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 36.221.245.192
+  hostname: r235.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r236.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 33.81.131.45
+  hostname: r236.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r237.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 139.19.228.136
+  hostname: r237.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r238.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 181.7.115.221
+  hostname: r238.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r239.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.57.135.9
+  hostname: r239.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r24.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 122.226.198.42
+  hostname: r24.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r240.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 193.117.187.41
+  hostname: r240.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r241.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 198.75.126.238
+  hostname: r241.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r242.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 82.115.121.230
+  hostname: r242.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r243.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 133.230.208.196
+  hostname: r243.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r244.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.159.27.145
+  hostname: r244.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r245.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 202.62.89.65
+  hostname: r245.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r246.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 143.113.144.109
+  hostname: r246.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r247.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 97.171.215.221
+  hostname: r247.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r248.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.141.125.132
+  hostname: r248.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r249.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 135.157.44.21
+  hostname: r249.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r25.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 24.206.143.4
+  hostname: r25.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r250.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 180.33.104.199
+  hostname: r250.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r251.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 32.11.84.216
+  hostname: r251.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r252.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 65.68.100.113
+  hostname: r252.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r253.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 151.45.98.25
+  hostname: r253.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r254.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 165.90.134.147
+  hostname: r254.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r255.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 189.94.4.155
+  hostname: r255.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r256.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 160.145.119.185
+  hostname: r256.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r257.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 153.112.120.16
+  hostname: r257.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r258.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 16.5.250.222
+  hostname: r258.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r259.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 57.19.225.209
+  hostname: r259.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r26.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 119.239.141.119
+  hostname: r26.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r260.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 116.87.106.105
+  hostname: r260.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r261.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 1.138.174.59
+  hostname: r261.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r262.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 167.23.145.197
+  hostname: r262.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r263.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 109.189.242.115
+  hostname: r263.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r264.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.84.189.195
+  hostname: r264.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r265.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 118.25.45.127
+  hostname: r265.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r266.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.204.245.140
+  hostname: r266.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r267.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 123.176.155.195
+  hostname: r267.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r268.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 39.17.48.151
+  hostname: r268.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r269.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 73.133.14.16
+  hostname: r269.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r27.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 37.156.16.62
+  hostname: r27.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r270.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 117.8.194.244
+  hostname: r270.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r271.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.15.10.115
+  hostname: r271.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r272.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.4.146.5
+  hostname: r272.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r273.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 14.227.125.135
+  hostname: r273.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r274.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 187.93.101.178
+  hostname: r274.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r275.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 2.68.58.248
+  hostname: r275.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r276.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 135.139.32.189
+  hostname: r276.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r277.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 192.42.184.179
+  hostname: r277.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r278.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 167.11.107.120
+  hostname: r278.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r279.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 57.36.17.10
+  hostname: r279.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r28.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 121.123.141.109
+  hostname: r28.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r280.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 44.150.21.170
+  hostname: r280.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r281.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 5.39.86.79
+  hostname: r281.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r282.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 97.149.62.168
+  hostname: r282.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r283.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 38.178.216.131
+  hostname: r283.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r284.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 29.144.250.227
+  hostname: r284.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r285.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 123.226.41.234
+  hostname: r285.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r286.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.234.5.221
+  hostname: r286.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r287.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 188.235.19.212
+  hostname: r287.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r288.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 96.46.177.219
+  hostname: r288.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r289.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 146.209.3.98
+  hostname: r289.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r29.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 142.249.84.23
+  hostname: r29.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r290.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 2.159.190.13
+  hostname: r290.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r291.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 49.63.169.58
+  hostname: r291.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r292.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.35.20.3
+  hostname: r292.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r293.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 184.36.28.236
+  hostname: r293.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r294.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 190.87.45.158
+  hostname: r294.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r295.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 87.227.222.37
+  hostname: r295.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r296.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 56.239.227.4
+  hostname: r296.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r297.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 38.215.2.77
+  hostname: r297.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r298.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 1.184.243.214
+  hostname: r298.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r299.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 108.2.200.97
+  hostname: r299.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r3.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 25.20.249.112
+  hostname: r3.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r30.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 223.245.110.160
+  hostname: r30.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r300.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 168.153.145.27
+  hostname: r300.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r301.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 21.41.153.148
+  hostname: r301.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r302.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 189.139.169.170
+  hostname: r302.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r303.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 33.167.41.73
+  hostname: r303.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r304.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 196.97.233.90
+  hostname: r304.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r305.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 21.176.183.128
+  hostname: r305.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r306.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 180.20.19.10
+  hostname: r306.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r307.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 138.4.222.156
+  hostname: r307.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r308.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 83.184.152.206
+  hostname: r308.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r309.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 173.198.36.212
+  hostname: r309.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r31.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 81.194.182.201
+  hostname: r31.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r310.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 19.137.23.31
+  hostname: r310.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r311.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 197.155.215.129
+  hostname: r311.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r312.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 214.68.155.195
+  hostname: r312.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r313.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 70.45.117.119
+  hostname: r313.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r314.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 78.10.109.72
+  hostname: r314.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r315.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 134.186.190.239
+  hostname: r315.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r316.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 160.29.161.24
+  hostname: r316.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r317.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 180.133.230.72
+  hostname: r317.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r318.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 190.249.48.168
+  hostname: r318.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r319.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 48.90.68.158
+  hostname: r319.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r32.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 124.214.192.165
+  hostname: r32.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r320.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.91.159.11
+  hostname: r320.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r321.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 145.83.94.179
+  hostname: r321.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r322.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 12.91.38.241
+  hostname: r322.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r323.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.88.33.176
+  hostname: r323.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r324.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 36.46.132.186
+  hostname: r324.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r325.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 143.214.3.143
+  hostname: r325.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r326.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 179.123.10.188
+  hostname: r326.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r327.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 108.33.244.112
+  hostname: r327.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r328.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 66.138.243.146
+  hostname: r328.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r329.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 92.175.67.104
+  hostname: r329.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r33.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 216.141.175.153
+  hostname: r33.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r330.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 21.108.81.95
+  hostname: r330.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r331.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 216.27.214.235
+  hostname: r331.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r332.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 186.86.192.185
+  hostname: r332.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r333.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 132.187.5.62
+  hostname: r333.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r334.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 54.166.137.42
+  hostname: r334.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r335.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.149.87.232
+  hostname: r335.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r336.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 55.253.246.36
+  hostname: r336.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r337.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 40.214.6.45
+  hostname: r337.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r338.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 159.4.187.150
+  hostname: r338.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r339.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 167.231.18.102
+  hostname: r339.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r34.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 52.119.133.112
+  hostname: r34.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r340.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 154.129.10.255
+  hostname: r340.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r341.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 1.211.76.212
+  hostname: r341.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r342.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.61.147.146
+  hostname: r342.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r343.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 12.101.204.168
+  hostname: r343.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r344.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 32.116.9.77
+  hostname: r344.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r345.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 214.164.85.35
+  hostname: r345.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r346.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 92.3.111.46
+  hostname: r346.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r347.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.31.190.83
+  hostname: r347.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r348.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 92.183.26.56
+  hostname: r348.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r349.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 179.108.118.173
+  hostname: r349.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r35.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 207.92.188.109
+  hostname: r35.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r350.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 158.169.104.30
+  hostname: r350.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r351.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 131.182.62.116
+  hostname: r351.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r352.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.69.0.204
+  hostname: r352.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r353.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 156.197.203.180
+  hostname: r353.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r354.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 63.151.166.136
+  hostname: r354.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r355.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 63.226.223.81
+  hostname: r355.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r356.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 194.162.165.116
+  hostname: r356.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r357.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.101.127.94
+  hostname: r357.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r358.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 30.206.45.151
+  hostname: r358.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r359.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 76.161.156.58
+  hostname: r359.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r36.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.85.123.147
+  hostname: r36.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r360.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.230.56.74
+  hostname: r360.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r361.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 215.162.165.52
+  hostname: r361.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r362.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 60.255.3.92
+  hostname: r362.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r363.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 39.37.206.141
+  hostname: r363.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r364.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 155.31.219.214
+  hostname: r364.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r365.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 31.13.98.46
+  hostname: r365.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r366.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.148.186.180
+  hostname: r366.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r367.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 47.199.8.243
+  hostname: r367.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r368.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 93.54.121.47
+  hostname: r368.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r369.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 223.47.145.142
+  hostname: r369.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r37.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 199.25.201.49
+  hostname: r37.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r370.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 150.78.115.210
+  hostname: r370.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r371.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 139.188.185.8
+  hostname: r371.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r372.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 194.142.203.71
+  hostname: r372.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r373.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 160.221.29.15
+  hostname: r373.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r374.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 103.155.178.39
+  hostname: r374.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r375.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 72.190.34.106
+  hostname: r375.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r376.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 138.149.191.131
+  hostname: r376.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r377.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.188.238.30
+  hostname: r377.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r378.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 140.110.10.22
+  hostname: r378.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r379.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 32.136.174.235
+  hostname: r379.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r38.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 189.125.176.5
+  hostname: r38.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r380.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 89.67.39.243
+  hostname: r380.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r381.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 208.109.177.187
+  hostname: r381.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r382.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 166.159.169.169
+  hostname: r382.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r383.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 135.103.207.24
+  hostname: r383.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r384.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 39.186.33.69
+  hostname: r384.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r385.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 192.120.95.108
+  hostname: r385.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r386.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 41.56.201.30
+  hostname: r386.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r387.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 72.90.138.33
+  hostname: r387.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r388.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 148.80.6.116
+  hostname: r388.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r389.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.156.207.167
+  hostname: r389.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r39.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 201.197.140.142
+  hostname: r39.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r390.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 118.33.218.29
+  hostname: r390.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r391.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 69.147.137.12
+  hostname: r391.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r392.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 125.89.241.232
+  hostname: r392.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r393.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 167.163.163.78
+  hostname: r393.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r394.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 35.73.38.193
+  hostname: r394.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r395.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 23.14.3.27
+  hostname: r395.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r396.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 69.177.254.194
+  hostname: r396.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r397.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 120.117.64.48
+  hostname: r397.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r398.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.149.170.250
+  hostname: r398.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r399.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 181.185.50.18
+  hostname: r399.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r4.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 135.126.167.209
+  hostname: r4.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r40.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 201.79.61.131
+  hostname: r40.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r400.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 78.106.228.124
+  hostname: r400.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r401.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 144.234.230.139
+  hostname: r401.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r402.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 150.189.8.252
+  hostname: r402.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r403.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 132.206.129.234
+  hostname: r403.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r404.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 51.116.249.80
+  hostname: r404.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r405.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 109.253.236.160
+  hostname: r405.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r406.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 220.172.22.117
+  hostname: r406.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r407.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 110.114.68.151
+  hostname: r407.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r408.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 42.139.95.22
+  hostname: r408.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r409.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 56.142.110.75
+  hostname: r409.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r41.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 205.166.75.194
+  hostname: r41.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r410.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 124.40.137.228
+  hostname: r410.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r411.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 214.232.87.8
+  hostname: r411.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r412.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 125.27.156.126
+  hostname: r412.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r413.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 198.220.118.124
+  hostname: r413.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r414.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 219.124.41.229
+  hostname: r414.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r415.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 85.177.201.62
+  hostname: r415.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r416.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 17.235.50.0
+  hostname: r416.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r417.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 135.246.52.130
+  hostname: r417.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r418.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 25.187.22.1
+  hostname: r418.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r419.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 6.224.95.195
+  hostname: r419.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r42.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 58.117.110.209
+  hostname: r42.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r420.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 60.106.90.184
+  hostname: r420.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r421.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 125.131.89.225
+  hostname: r421.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r422.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 156.253.23.99
+  hostname: r422.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r423.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 212.110.227.154
+  hostname: r423.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r424.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 176.88.40.203
+  hostname: r424.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r425.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 55.225.224.72
+  hostname: r425.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r426.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 96.36.130.204
+  hostname: r426.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r427.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 117.185.29.236
+  hostname: r427.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r428.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 77.80.255.198
+  hostname: r428.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r429.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 58.41.189.101
+  hostname: r429.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r43.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 38.108.145.24
+  hostname: r43.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r430.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 90.108.222.232
+  hostname: r430.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r431.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 203.101.204.151
+  hostname: r431.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r432.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 169.199.86.79
+  hostname: r432.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r433.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 208.222.30.199
+  hostname: r433.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r434.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 73.25.244.147
+  hostname: r434.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r435.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 181.53.246.34
+  hostname: r435.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r436.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 111.114.255.70
+  hostname: r436.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r437.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 165.203.149.213
+  hostname: r437.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r438.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 81.107.6.149
+  hostname: r438.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r439.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 84.56.133.241
+  hostname: r439.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r44.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 87.187.18.193
+  hostname: r44.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r440.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 111.16.70.17
+  hostname: r440.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r441.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.183.88.130
+  hostname: r441.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r442.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 68.195.203.89
+  hostname: r442.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r443.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 159.154.197.164
+  hostname: r443.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r444.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 109.212.54.132
+  hostname: r444.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r445.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 138.210.87.69
+  hostname: r445.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r446.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 203.210.168.42
+  hostname: r446.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r447.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.88.83.70
+  hostname: r447.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r448.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 39.45.43.159
+  hostname: r448.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r449.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 142.218.233.171
+  hostname: r449.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r45.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.74.172.32
+  hostname: r45.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r450.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 76.99.229.131
+  hostname: r450.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r451.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 151.117.151.209
+  hostname: r451.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r452.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 144.171.198.202
+  hostname: r452.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r453.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 125.107.241.203
+  hostname: r453.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r454.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 50.49.216.218
+  hostname: r454.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r455.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 83.154.38.229
+  hostname: r455.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r456.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 223.105.30.21
+  hostname: r456.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r457.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 184.78.201.188
+  hostname: r457.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r458.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.13.55.131
+  hostname: r458.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r459.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.39.199.103
+  hostname: r459.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r46.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 208.28.214.199
+  hostname: r46.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r460.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.244.77.114
+  hostname: r460.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r461.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 29.178.123.130
+  hostname: r461.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r462.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 167.97.175.148
+  hostname: r462.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r463.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 39.141.198.108
+  hostname: r463.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r464.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 73.155.53.201
+  hostname: r464.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r465.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 144.3.67.121
+  hostname: r465.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r466.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 64.202.245.9
+  hostname: r466.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r467.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 145.215.149.58
+  hostname: r467.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r468.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 28.83.70.140
+  hostname: r468.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r469.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 19.22.131.34
+  hostname: r469.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r47.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 96.82.161.58
+  hostname: r47.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r470.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 158.80.192.51
+  hostname: r470.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r471.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 34.54.63.200
+  hostname: r471.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r472.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 50.152.239.250
+  hostname: r472.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r473.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 45.213.130.110
+  hostname: r473.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r474.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 191.255.240.199
+  hostname: r474.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r475.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 182.222.77.91
+  hostname: r475.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r476.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 85.170.148.119
+  hostname: r476.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r477.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 111.129.223.91
+  hostname: r477.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r478.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 57.95.73.73
+  hostname: r478.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r479.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 21.51.250.67
+  hostname: r479.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r48.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 13.223.166.3
+  hostname: r48.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r480.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 147.52.227.69
+  hostname: r480.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r481.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 84.67.243.159
+  hostname: r481.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r482.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.172.36.12
+  hostname: r482.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r483.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 20.58.186.245
+  hostname: r483.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r484.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 21.131.56.217
+  hostname: r484.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r485.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 50.117.106.228
+  hostname: r485.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r486.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 149.22.214.211
+  hostname: r486.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r487.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 195.161.180.57
+  hostname: r487.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r488.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 207.164.75.78
+  hostname: r488.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r489.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 138.163.17.187
+  hostname: r489.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r49.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 166.136.166.110
+  hostname: r49.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r490.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 217.148.78.251
+  hostname: r490.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r491.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 9.255.46.114
+  hostname: r491.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r492.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 129.197.116.227
+  hostname: r492.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r493.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.102.58.178
+  hostname: r493.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r494.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 48.169.183.95
+  hostname: r494.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r495.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 131.64.156.30
+  hostname: r495.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r496.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 144.53.136.138
+  hostname: r496.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r497.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 132.36.217.4
+  hostname: r497.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r498.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 112.71.139.245
+  hostname: r498.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r499.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 198.35.138.107
+  hostname: r499.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r5.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 68.202.223.137
+  hostname: r5.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r50.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 45.76.144.211
+  hostname: r50.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r500.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 18.59.79.26
+  hostname: r500.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r501.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 34.124.248.83
+  hostname: r501.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r502.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 82.24.165.20
+  hostname: r502.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r503.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 54.81.139.23
+  hostname: r503.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r504.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.99.58.108
+  hostname: r504.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r505.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 192.128.116.251
+  hostname: r505.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r506.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.130.108.94
+  hostname: r506.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r507.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 55.78.223.197
+  hostname: r507.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r508.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 129.17.81.254
+  hostname: r508.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r509.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 153.197.6.162
+  hostname: r509.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r51.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 6.204.36.172
+  hostname: r51.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r510.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 167.223.85.91
+  hostname: r510.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r511.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 185.136.95.74
+  hostname: r511.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r512.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 166.224.198.68
+  hostname: r512.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r513.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 217.119.100.189
+  hostname: r513.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r514.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 85.82.119.128
+  hostname: r514.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r515.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 32.97.15.79
+  hostname: r515.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r516.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 108.107.30.12
+  hostname: r516.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r517.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 203.251.99.132
+  hostname: r517.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r518.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 222.42.228.56
+  hostname: r518.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r519.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.26.133.224
+  hostname: r519.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r52.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 164.171.102.227
+  hostname: r52.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r520.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.155.37.194
+  hostname: r520.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r521.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 48.94.224.40
+  hostname: r521.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r522.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 56.72.135.30
+  hostname: r522.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r523.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 89.186.136.117
+  hostname: r523.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r524.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.174.156.78
+  hostname: r524.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r525.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 84.184.148.114
+  hostname: r525.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r526.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 117.23.239.70
+  hostname: r526.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r527.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 177.13.203.200
+  hostname: r527.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r528.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 102.10.31.159
+  hostname: r528.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r529.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 85.66.173.82
+  hostname: r529.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r53.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.131.221.79
+  hostname: r53.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r530.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 110.21.103.197
+  hostname: r530.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r531.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 168.5.68.152
+  hostname: r531.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r532.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 156.178.196.81
+  hostname: r532.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r533.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 61.198.46.178
+  hostname: r533.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r534.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 3.144.154.165
+  hostname: r534.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r535.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 5.11.79.154
+  hostname: r535.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r536.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 64.225.148.14
+  hostname: r536.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r537.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 168.97.112.168
+  hostname: r537.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r538.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 125.248.70.106
+  hostname: r538.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r539.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 27.81.8.5
+  hostname: r539.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r54.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 220.182.93.190
+  hostname: r54.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r540.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 12.82.179.76
+  hostname: r540.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r541.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 191.226.50.230
+  hostname: r541.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r542.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 110.22.175.197
+  hostname: r542.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r543.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 38.69.130.148
+  hostname: r543.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r544.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 45.99.60.88
+  hostname: r544.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r545.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 138.61.193.0
+  hostname: r545.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r546.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 123.229.103.171
+  hostname: r546.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r547.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 166.101.111.44
+  hostname: r547.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r548.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 61.135.204.125
+  hostname: r548.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r549.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 221.78.200.108
+  hostname: r549.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r55.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 13.188.219.221
+  hostname: r55.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r550.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 37.36.250.171
+  hostname: r550.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r551.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 26.6.204.18
+  hostname: r551.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r552.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 88.199.35.2
+  hostname: r552.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r553.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 94.42.20.232
+  hostname: r553.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r554.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 223.80.159.233
+  hostname: r554.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r555.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 192.189.111.192
+  hostname: r555.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r556.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 151.232.193.36
+  hostname: r556.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r557.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 50.180.27.131
+  hostname: r557.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r558.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 130.246.44.23
+  hostname: r558.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r559.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 140.247.200.210
+  hostname: r559.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r56.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 126.240.191.120
+  hostname: r56.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r560.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 174.149.164.232
+  hostname: r560.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r561.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 37.108.228.158
+  hostname: r561.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r562.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.186.200.2
+  hostname: r562.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r563.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 100.226.183.1
+  hostname: r563.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r564.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 155.242.227.118
+  hostname: r564.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r565.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 207.35.111.8
+  hostname: r565.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r566.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 89.20.82.129
+  hostname: r566.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r567.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 85.84.49.86
+  hostname: r567.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r568.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 154.92.170.110
+  hostname: r568.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r569.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 30.244.124.191
+  hostname: r569.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r57.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 76.164.168.72
+  hostname: r57.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r570.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 17.21.163.97
+  hostname: r570.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r571.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.41.203.76
+  hostname: r571.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r572.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 165.159.247.46
+  hostname: r572.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r573.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 52.228.253.120
+  hostname: r573.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r574.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.28.143.85
+  hostname: r574.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r575.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 89.173.146.0
+  hostname: r575.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r576.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 133.89.189.162
+  hostname: r576.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r577.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 173.225.211.71
+  hostname: r577.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r578.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 194.88.223.193
+  hostname: r578.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r579.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 197.11.8.188
+  hostname: r579.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r58.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 97.34.144.213
+  hostname: r58.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r580.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.150.169.245
+  hostname: r580.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r581.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.131.125.93
+  hostname: r581.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r582.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 219.168.60.93
+  hostname: r582.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r583.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 163.107.44.102
+  hostname: r583.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r584.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 172.217.10.19
+  hostname: r584.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r585.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 41.62.138.31
+  hostname: r585.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r586.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.248.73.240
+  hostname: r586.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r587.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 122.213.247.129
+  hostname: r587.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r588.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 179.45.173.102
+  hostname: r588.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r589.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 144.201.116.153
+  hostname: r589.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r59.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 96.209.195.155
+  hostname: r59.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r590.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 13.17.251.60
+  hostname: r590.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r591.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 48.134.99.98
+  hostname: r591.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r592.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 173.85.240.15
+  hostname: r592.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r593.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 78.187.96.87
+  hostname: r593.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r594.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 88.156.252.117
+  hostname: r594.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r595.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.185.214.147
+  hostname: r595.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r596.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 15.74.96.114
+  hostname: r596.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r597.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 156.210.167.218
+  hostname: r597.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r598.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 102.35.251.220
+  hostname: r598.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r599.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.53.82.217
+  hostname: r599.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r6.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 139.73.144.48
+  hostname: r6.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r60.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 42.42.198.84
+  hostname: r60.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r600.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 67.15.141.135
+  hostname: r600.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r601.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 27.45.252.132
+  hostname: r601.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r602.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 6.147.153.152
+  hostname: r602.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r603.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.95.9.6
+  hostname: r603.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r604.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.205.203.174
+  hostname: r604.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r605.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 41.127.103.25
+  hostname: r605.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r606.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 7.120.64.83
+  hostname: r606.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r607.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 97.29.21.71
+  hostname: r607.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r608.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 176.182.122.110
+  hostname: r608.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r609.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 30.251.148.125
+  hostname: r609.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r61.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 63.180.15.93
+  hostname: r61.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r610.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 200.187.212.3
+  hostname: r610.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r611.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 49.188.206.13
+  hostname: r611.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r612.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 78.73.246.85
+  hostname: r612.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r613.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 212.216.205.119
+  hostname: r613.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r614.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 15.88.223.186
+  hostname: r614.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r615.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.196.13.203
+  hostname: r615.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r616.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.95.179.175
+  hostname: r616.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r617.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 147.235.106.221
+  hostname: r617.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r618.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 190.191.8.152
+  hostname: r618.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r619.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 177.167.154.138
+  hostname: r619.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r62.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 7.225.2.149
+  hostname: r62.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r620.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 4.164.142.132
+  hostname: r620.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r621.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 70.47.156.120
+  hostname: r621.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r622.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 67.171.31.18
+  hostname: r622.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r623.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 124.216.102.81
+  hostname: r623.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r624.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 113.87.249.165
+  hostname: r624.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r625.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 165.125.63.144
+  hostname: r625.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r626.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 102.170.64.192
+  hostname: r626.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r627.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 57.47.239.72
+  hostname: r627.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r628.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 18.15.245.50
+  hostname: r628.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r629.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 157.192.109.102
+  hostname: r629.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r63.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 132.111.185.230
+  hostname: r63.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r630.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 31.123.231.229
+  hostname: r630.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r631.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 38.3.33.6
+  hostname: r631.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r632.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 63.181.170.110
+  hostname: r632.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r633.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 16.9.5.212
+  hostname: r633.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r634.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 195.202.74.12
+  hostname: r634.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r635.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 26.23.128.245
+  hostname: r635.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r636.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 218.131.252.136
+  hostname: r636.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r637.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 215.59.192.236
+  hostname: r637.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r638.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 66.6.254.162
+  hostname: r638.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r639.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 11.100.40.102
+  hostname: r639.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r64.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 142.99.50.136
+  hostname: r64.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r640.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 70.233.205.178
+  hostname: r640.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r641.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 211.59.184.134
+  hostname: r641.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r642.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 20.58.99.201
+  hostname: r642.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r643.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 52.165.192.127
+  hostname: r643.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r644.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 32.52.167.150
+  hostname: r644.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r645.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 190.210.185.138
+  hostname: r645.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r646.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.229.145.127
+  hostname: r646.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r647.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 55.205.164.129
+  hostname: r647.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r648.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 110.30.47.184
+  hostname: r648.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r649.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 130.76.210.212
+  hostname: r649.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r65.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 27.241.2.129
+  hostname: r65.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r650.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 106.39.217.175
+  hostname: r650.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r651.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 49.131.162.116
+  hostname: r651.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r652.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 148.76.176.185
+  hostname: r652.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r653.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 132.109.115.92
+  hostname: r653.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r654.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 222.198.177.71
+  hostname: r654.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r655.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 95.126.22.101
+  hostname: r655.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r656.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 202.161.78.255
+  hostname: r656.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r657.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 4.98.245.21
+  hostname: r657.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r658.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 123.16.40.172
+  hostname: r658.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r659.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 109.171.175.86
+  hostname: r659.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r66.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 69.26.213.113
+  hostname: r66.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r660.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 18.168.108.118
+  hostname: r660.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r661.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 61.173.24.224
+  hostname: r661.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r662.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 66.184.154.100
+  hostname: r662.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r663.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 143.44.250.26
+  hostname: r663.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r664.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 75.27.33.157
+  hostname: r664.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r665.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 209.73.61.240
+  hostname: r665.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r666.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 171.175.115.34
+  hostname: r666.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r667.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 28.219.38.192
+  hostname: r667.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r668.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 190.64.188.232
+  hostname: r668.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r669.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 5.106.61.145
+  hostname: r669.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r67.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 152.51.249.38
+  hostname: r67.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r670.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 98.253.67.175
+  hostname: r670.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r671.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 38.141.94.214
+  hostname: r671.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r672.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 75.219.105.244
+  hostname: r672.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r673.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 160.51.82.252
+  hostname: r673.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r674.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 40.24.248.92
+  hostname: r674.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r675.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 149.201.82.160
+  hostname: r675.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r676.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 167.131.105.200
+  hostname: r676.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r677.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 74.112.82.96
+  hostname: r677.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r678.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 170.194.141.37
+  hostname: r678.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r679.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 12.100.212.162
+  hostname: r679.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r68.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 48.84.40.132
+  hostname: r68.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r680.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 204.244.53.120
+  hostname: r680.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r681.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 40.223.236.95
+  hostname: r681.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r682.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 132.64.67.156
+  hostname: r682.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r683.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 54.160.82.70
+  hostname: r683.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r684.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 211.227.195.68
+  hostname: r684.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r685.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.85.143.127
+  hostname: r685.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r686.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 202.98.251.235
+  hostname: r686.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r687.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 150.175.236.45
+  hostname: r687.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r688.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 170.235.120.13
+  hostname: r688.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r689.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 65.178.85.115
+  hostname: r689.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r69.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.13.103.22
+  hostname: r69.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r690.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 69.244.59.182
+  hostname: r690.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r691.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 149.71.98.133
+  hostname: r691.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r692.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 75.224.230.5
+  hostname: r692.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r693.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 170.93.17.91
+  hostname: r693.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r694.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 204.139.49.118
+  hostname: r694.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r695.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 76.72.249.64
+  hostname: r695.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r696.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 2.88.234.218
+  hostname: r696.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r697.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 170.115.162.221
+  hostname: r697.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r698.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 74.9.224.147
+  hostname: r698.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r699.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 134.199.121.177
+  hostname: r699.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r7.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 74.140.39.94
+  hostname: r7.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r70.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 115.143.39.218
+  hostname: r70.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r700.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.165.159.245
+  hostname: r700.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r701.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 79.187.156.62
+  hostname: r701.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r702.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 223.129.178.141
+  hostname: r702.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r703.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 101.63.43.154
+  hostname: r703.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r704.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 213.117.40.198
+  hostname: r704.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r705.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 91.229.65.239
+  hostname: r705.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r706.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 157.12.175.88
+  hostname: r706.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r707.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 172.251.43.90
+  hostname: r707.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r708.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 22.108.143.157
+  hostname: r708.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r709.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 50.250.115.70
+  hostname: r709.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r71.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 220.71.213.97
+  hostname: r71.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r710.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 85.237.85.76
+  hostname: r710.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r711.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 98.175.73.229
+  hostname: r711.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r712.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 40.115.145.76
+  hostname: r712.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r713.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.40.12.241
+  hostname: r713.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r714.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 185.100.126.35
+  hostname: r714.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r715.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.194.185.130
+  hostname: r715.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r716.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 133.46.248.29
+  hostname: r716.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r717.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 87.181.214.149
+  hostname: r717.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r718.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 4.194.182.228
+  hostname: r718.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r719.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 193.98.170.24
+  hostname: r719.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r72.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.23.204.251
+  hostname: r72.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r720.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 186.144.47.105
+  hostname: r720.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r721.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 138.199.44.164
+  hostname: r721.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r722.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 52.20.43.122
+  hostname: r722.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r723.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 4.178.218.19
+  hostname: r723.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r724.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 14.67.158.225
+  hostname: r724.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r725.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 81.248.91.182
+  hostname: r725.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r726.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 220.227.216.226
+  hostname: r726.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r727.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 123.123.168.41
+  hostname: r727.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r728.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.81.46.193
+  hostname: r728.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r729.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 94.76.221.235
+  hostname: r729.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r73.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.121.39.24
+  hostname: r73.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r730.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.86.156.229
+  hostname: r730.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r731.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 166.135.68.104
+  hostname: r731.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r732.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 197.129.78.62
+  hostname: r732.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r733.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 49.118.20.49
+  hostname: r733.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r734.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 152.67.172.150
+  hostname: r734.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r735.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.173.76.32
+  hostname: r735.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r736.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 221.129.231.141
+  hostname: r736.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r737.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 56.84.147.6
+  hostname: r737.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r738.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.1.200.224
+  hostname: r738.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r739.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 188.80.27.209
+  hostname: r739.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r74.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 186.189.9.69
+  hostname: r74.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r740.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.112.16.159
+  hostname: r740.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r741.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 168.93.246.177
+  hostname: r741.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r742.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.238.207.115
+  hostname: r742.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r743.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 209.82.39.180
+  hostname: r743.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r744.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 65.157.14.125
+  hostname: r744.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r745.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 78.122.128.240
+  hostname: r745.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r746.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 52.34.44.74
+  hostname: r746.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r747.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 163.214.226.164
+  hostname: r747.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r748.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 156.196.114.184
+  hostname: r748.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r749.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 181.18.234.35
+  hostname: r749.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r75.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 13.225.98.219
+  hostname: r75.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r750.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 222.180.58.8
+  hostname: r750.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r751.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.128.177.141
+  hostname: r751.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r752.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 118.200.132.44
+  hostname: r752.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r753.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 93.26.88.40
+  hostname: r753.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r754.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 65.208.125.225
+  hostname: r754.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r755.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 116.131.59.116
+  hostname: r755.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r756.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 145.58.156.117
+  hostname: r756.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r757.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 131.4.229.74
+  hostname: r757.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r758.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 123.238.244.251
+  hostname: r758.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r759.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 50.14.180.135
+  hostname: r759.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r76.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 47.211.4.5
+  hostname: r76.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r760.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 24.75.154.95
+  hostname: r760.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r761.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 202.110.179.0
+  hostname: r761.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r762.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 142.139.29.8
+  hostname: r762.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r763.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 105.238.154.177
+  hostname: r763.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r764.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 92.209.167.76
+  hostname: r764.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r765.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 76.85.198.24
+  hostname: r765.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r766.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 69.126.119.40
+  hostname: r766.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r767.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 3.104.7.32
+  hostname: r767.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r768.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 205.31.220.154
+  hostname: r768.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r769.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 180.128.29.103
+  hostname: r769.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r77.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 139.238.84.135
+  hostname: r77.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r770.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 215.32.161.181
+  hostname: r770.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r771.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 205.117.56.79
+  hostname: r771.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r772.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 182.241.89.240
+  hostname: r772.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r773.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 14.229.185.31
+  hostname: r773.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r774.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 159.4.104.253
+  hostname: r774.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r775.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 185.171.154.197
+  hostname: r775.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r776.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 185.41.173.253
+  hostname: r776.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r777.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 194.101.134.190
+  hostname: r777.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r778.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 150.181.214.108
+  hostname: r778.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r779.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 220.57.111.13
+  hostname: r779.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r78.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 125.52.131.203
+  hostname: r78.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r780.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 128.57.206.186
+  hostname: r780.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r781.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 184.101.241.103
+  hostname: r781.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r782.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 65.27.23.186
+  hostname: r782.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r783.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 42.223.247.38
+  hostname: r783.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r784.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 138.126.176.244
+  hostname: r784.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r785.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 69.121.171.85
+  hostname: r785.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r786.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 192.52.125.188
+  hostname: r786.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r787.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 63.203.171.23
+  hostname: r787.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r788.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.180.130.107
+  hostname: r788.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r789.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 133.122.138.170
+  hostname: r789.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r79.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 209.148.71.178
+  hostname: r79.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r790.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 164.217.236.245
+  hostname: r790.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r791.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 113.171.105.122
+  hostname: r791.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r792.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.86.213.228
+  hostname: r792.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r793.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 6.125.23.141
+  hostname: r793.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r794.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 196.57.222.82
+  hostname: r794.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r795.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 178.156.128.144
+  hostname: r795.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r796.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 46.115.51.48
+  hostname: r796.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r797.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 118.54.0.154
+  hostname: r797.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r798.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 9.30.250.252
+  hostname: r798.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r799.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 110.152.161.33
+  hostname: r799.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r8.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 22.21.118.171
+  hostname: r8.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r80.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 109.136.51.238
+  hostname: r80.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r800.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 31.73.44.224
+  hostname: r800.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r801.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 143.72.153.150
+  hostname: r801.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r802.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 153.5.11.8
+  hostname: r802.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r803.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 112.168.253.129
+  hostname: r803.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r804.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 136.166.13.207
+  hostname: r804.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r805.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 47.161.172.53
+  hostname: r805.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r806.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 108.76.141.60
+  hostname: r806.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r807.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 99.17.168.53
+  hostname: r807.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r808.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 131.51.5.225
+  hostname: r808.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r809.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 166.77.194.107
+  hostname: r809.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r81.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.128.104.36
+  hostname: r81.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r810.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 164.248.46.202
+  hostname: r810.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r811.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 101.92.199.49
+  hostname: r811.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r812.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 60.255.80.6
+  hostname: r812.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r813.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.150.127.235
+  hostname: r813.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r814.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 162.188.101.191
+  hostname: r814.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r815.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 17.229.28.101
+  hostname: r815.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r816.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.216.207.73
+  hostname: r816.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r817.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 84.171.166.156
+  hostname: r817.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r818.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 105.129.61.247
+  hostname: r818.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r819.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 154.51.99.211
+  hostname: r819.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r82.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 173.19.243.10
+  hostname: r82.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r820.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 51.163.29.138
+  hostname: r820.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r821.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 75.62.1.64
+  hostname: r821.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r822.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 77.155.168.150
+  hostname: r822.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r823.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 133.107.60.218
+  hostname: r823.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r824.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 18.73.224.228
+  hostname: r824.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r825.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 60.202.147.197
+  hostname: r825.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r826.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 181.80.157.88
+  hostname: r826.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r827.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.227.195.116
+  hostname: r827.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r828.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 24.211.109.144
+  hostname: r828.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r829.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 103.132.238.8
+  hostname: r829.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r83.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 21.54.206.45
+  hostname: r83.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r830.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 103.143.202.157
+  hostname: r830.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r831.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 181.3.253.8
+  hostname: r831.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r832.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 80.229.122.29
+  hostname: r832.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r833.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 198.189.141.68
+  hostname: r833.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r834.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 177.74.139.165
+  hostname: r834.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r835.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 74.73.154.125
+  hostname: r835.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r836.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 155.35.11.108
+  hostname: r836.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r837.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 149.249.130.27
+  hostname: r837.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r838.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 162.78.118.80
+  hostname: r838.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r839.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 143.94.239.255
+  hostname: r839.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r84.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 30.55.57.220
+  hostname: r84.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r840.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 97.16.97.142
+  hostname: r840.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r841.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.84.50.4
+  hostname: r841.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r842.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.86.252.192
+  hostname: r842.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r843.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 7.188.169.25
+  hostname: r843.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r844.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 76.99.161.4
+  hostname: r844.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r845.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 51.58.33.37
+  hostname: r845.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r846.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 120.238.185.36
+  hostname: r846.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r847.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 73.38.20.177
+  hostname: r847.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r848.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 140.106.94.255
+  hostname: r848.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r849.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 162.223.160.255
+  hostname: r849.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r85.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 69.177.5.120
+  hostname: r85.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r850.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 219.209.122.240
+  hostname: r850.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r851.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 161.54.174.148
+  hostname: r851.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r852.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 214.90.134.255
+  hostname: r852.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r853.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 135.203.194.56
+  hostname: r853.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r854.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 9.161.68.58
+  hostname: r854.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r855.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 183.216.68.132
+  hostname: r855.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r856.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 60.158.216.198
+  hostname: r856.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r857.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 200.149.237.225
+  hostname: r857.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r858.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 106.111.204.75
+  hostname: r858.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r859.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.142.216.140
+  hostname: r859.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r86.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.40.20.46
+  hostname: r86.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r860.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 213.152.209.120
+  hostname: r860.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r861.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 4.97.164.173
+  hostname: r861.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r862.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 7.215.137.253
+  hostname: r862.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r863.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 107.176.86.219
+  hostname: r863.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r864.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 49.91.53.51
+  hostname: r864.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r865.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 77.30.13.236
+  hostname: r865.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r866.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 198.112.233.213
+  hostname: r866.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r867.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 176.131.97.224
+  hostname: r867.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r868.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 180.229.183.39
+  hostname: r868.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r869.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 117.111.62.205
+  hostname: r869.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r87.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 182.227.83.255
+  hostname: r87.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r870.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 157.8.190.249
+  hostname: r870.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r871.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 214.147.47.107
+  hostname: r871.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r872.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 185.210.72.100
+  hostname: r872.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r873.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 126.5.89.245
+  hostname: r873.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r874.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 207.20.11.158
+  hostname: r874.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r875.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 207.229.113.10
+  hostname: r875.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r876.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 163.122.27.185
+  hostname: r876.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r877.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 126.163.48.187
+  hostname: r877.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r878.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 201.109.33.89
+  hostname: r878.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r879.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 19.124.136.132
+  hostname: r879.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r88.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 197.191.232.212
+  hostname: r88.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r880.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 88.31.142.186
+  hostname: r880.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r881.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 173.241.179.79
+  hostname: r881.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r882.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 29.114.83.55
+  hostname: r882.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r883.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 207.59.106.127
+  hostname: r883.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r884.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 176.10.20.155
+  hostname: r884.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r885.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 80.179.135.133
+  hostname: r885.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r886.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 125.206.253.129
+  hostname: r886.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r887.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.24.239.62
+  hostname: r887.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r888.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 157.193.195.12
+  hostname: r888.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r889.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 163.201.178.143
+  hostname: r889.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r89.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 159.140.11.160
+  hostname: r89.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r890.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 68.184.183.60
+  hostname: r890.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r891.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 39.210.115.41
+  hostname: r891.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r892.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 123.180.145.63
+  hostname: r892.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r893.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 87.54.34.54
+  hostname: r893.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r894.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 135.226.95.72
+  hostname: r894.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r895.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 155.32.143.230
+  hostname: r895.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r896.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 87.75.39.64
+  hostname: r896.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r897.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 154.158.44.210
+  hostname: r897.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r898.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 173.109.119.40
+  hostname: r898.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r899.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 180.86.94.3
+  hostname: r899.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r9.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 119.134.130.6
+  hostname: r9.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r90.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 72.75.230.153
+  hostname: r90.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r900.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 143.88.217.91
+  hostname: r900.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r901.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 189.202.35.71
+  hostname: r901.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r902.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 216.154.187.113
+  hostname: r902.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r903.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 97.23.219.87
+  hostname: r903.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r904.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 182.162.19.234
+  hostname: r904.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r905.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 56.107.156.46
+  hostname: r905.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r906.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 131.181.161.201
+  hostname: r906.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r907.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 81.103.180.9
+  hostname: r907.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r908.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 72.99.237.247
+  hostname: r908.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r909.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 191.8.191.201
+  hostname: r909.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r91.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 154.24.103.46
+  hostname: r91.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r910.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 62.186.111.89
+  hostname: r910.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r911.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.42.195.2
+  hostname: r911.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r912.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 154.96.21.173
+  hostname: r912.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r913.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 104.45.114.158
+  hostname: r913.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r914.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 208.227.223.222
+  hostname: r914.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r915.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 116.107.246.25
+  hostname: r915.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r916.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 22.120.68.125
+  hostname: r916.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r917.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 43.231.29.15
+  hostname: r917.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r918.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 39.114.244.27
+  hostname: r918.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r919.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 65.216.7.163
+  hostname: r919.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r92.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 41.153.118.75
+  hostname: r92.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r920.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 114.65.30.138
+  hostname: r920.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r921.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 16.48.45.195
+  hostname: r921.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r922.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 30.190.67.168
+  hostname: r922.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r923.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 214.255.83.90
+  hostname: r923.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r924.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 162.46.204.143
+  hostname: r924.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r925.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 193.25.202.95
+  hostname: r925.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r926.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 91.216.0.8
+  hostname: r926.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r927.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 203.245.231.193
+  hostname: r927.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r928.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 103.145.11.67
+  hostname: r928.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r929.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.10.86.142
+  hostname: r929.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r93.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 175.231.124.175
+  hostname: r93.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r930.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 139.248.181.98
+  hostname: r930.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r931.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 115.83.251.89
+  hostname: r931.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r932.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 27.130.148.105
+  hostname: r932.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r933.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 56.80.108.245
+  hostname: r933.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r934.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.35.78.117
+  hostname: r934.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r935.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 25.54.144.115
+  hostname: r935.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r936.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 130.11.138.233
+  hostname: r936.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r937.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 70.93.7.144
+  hostname: r937.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r938.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 47.206.157.238
+  hostname: r938.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r939.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 14.16.71.255
+  hostname: r939.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r94.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 169.202.200.87
+  hostname: r94.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r940.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 74.94.176.19
+  hostname: r940.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r941.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 24.178.140.169
+  hostname: r941.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r942.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 134.137.98.251
+  hostname: r942.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r943.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 91.190.216.47
+  hostname: r943.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r944.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 74.125.195.244
+  hostname: r944.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r945.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 198.90.45.129
+  hostname: r945.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r946.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 71.88.139.127
+  hostname: r946.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r947.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 143.252.2.202
+  hostname: r947.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r948.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 77.227.210.78
+  hostname: r948.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r949.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 142.91.237.104
+  hostname: r949.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r95.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 70.19.41.40
+  hostname: r95.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r950.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 144.224.226.159
+  hostname: r950.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r951.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 155.191.211.207
+  hostname: r951.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r952.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 173.186.53.251
+  hostname: r952.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r953.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 216.249.54.169
+  hostname: r953.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r954.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 170.84.120.198
+  hostname: r954.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r955.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 82.178.150.0
+  hostname: r955.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r956.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 173.126.186.97
+  hostname: r956.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r957.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 196.182.42.231
+  hostname: r957.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r958.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 146.29.54.186
+  hostname: r958.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r959.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 85.201.47.38
+  hostname: r959.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r96.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 104.234.246.59
+  hostname: r96.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r960.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 219.154.114.53
+  hostname: r960.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r961.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 132.29.103.36
+  hostname: r961.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r962.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 124.132.85.0
+  hostname: r962.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r963.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 126.75.186.169
+  hostname: r963.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r964.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 83.50.230.11
+  hostname: r964.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r965.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 200.75.166.0
+  hostname: r965.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r966.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 67.222.66.84
+  hostname: r966.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r967.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 16.70.212.27
+  hostname: r967.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r968.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 170.108.126.102
+  hostname: r968.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r969.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 184.245.223.121
+  hostname: r969.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r97.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 130.106.78.119
+  hostname: r97.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r970.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 206.216.40.183
+  hostname: r970.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r971.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 152.120.209.228
+  hostname: r971.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r972.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 24.15.138.243
+  hostname: r972.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r973.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 75.226.140.115
+  hostname: r973.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r974.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 91.53.80.18
+  hostname: r974.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r975.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 165.138.249.76
+  hostname: r975.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r976.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 90.16.5.84
+  hostname: r976.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r977.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 149.240.37.149
+  hostname: r977.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r978.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 104.224.170.153
+  hostname: r978.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r979.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 35.187.95.88
+  hostname: r979.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r98.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 115.93.246.5
+  hostname: r98.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r980.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 154.189.165.97
+  hostname: r980.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r981.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 98.96.189.134
+  hostname: r981.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r982.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 112.2.134.68
+  hostname: r982.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r983.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 210.206.126.15
+  hostname: r983.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r984.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 38.247.67.115
+  hostname: r984.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r985.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 45.139.110.247
+  hostname: r985.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r986.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 105.251.80.248
+  hostname: r986.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r987.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 185.91.150.178
+  hostname: r987.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r988.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 92.38.187.239
+  hostname: r988.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r989.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 152.118.210.95
+  hostname: r989.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r99.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 91.221.216.105
+  hostname: r99.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r990.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 52.159.51.239
+  hostname: r990.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r991.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 146.243.25.78
+  hostname: r991.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r992.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 156.13.232.216
+  hostname: r992.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r993.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 88.97.131.138
+  hostname: r993.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r994.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 9.140.60.126
+  hostname: r994.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r995.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 53.225.105.229
+  hostname: r995.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r996.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 92.91.40.136
+  hostname: r996.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r997.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 171.151.141.216
+  hostname: r997.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r998.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 96.154.222.19
+  hostname: r998.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
+r999.cisco.com:
+  data:
+    asn: 65538
+    loopback0: 184.98.216.39
+  hostname: r999.cisco.com
+  password: cisco123
+  platform: ios
+  username: cisco
