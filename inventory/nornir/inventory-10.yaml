@@ -1,0 +1,50 @@
+r1.cisco.com:
+  hostname: r1.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r2.cisco.com:
+  hostname: r2.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r3.cisco.com:
+  hostname: r3.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r4.cisco.com:
+  hostname: r4.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r5.cisco.com:
+  hostname: r5.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r6.cisco.com:
+  hostname: r6.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r7.cisco.com:
+  hostname: r7.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r8.cisco.com:
+  hostname: r8.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r9.cisco.com:
+  hostname: r9.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23
+r10.cisco.com:
+  hostname: r10.cisco.com
+  platform: ios
+  username: cisco
+  password: C1sc0!23

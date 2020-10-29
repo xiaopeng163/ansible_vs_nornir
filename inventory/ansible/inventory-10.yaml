@@ -1,0 +1,52 @@
+all:
+  hosts:
+    r1.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r2.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r3.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r4.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r5.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r6.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r7.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r8.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r9.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
+    r10.cisco.com:
+      ansible_user: cisco
+      ansible_password: C1sc0!23
+      ansible_connection: network_cli
+      ansible_network_os: ios
