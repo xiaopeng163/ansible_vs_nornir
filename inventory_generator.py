@@ -14,11 +14,12 @@ def main(num_hosts):
         prefix = f'r{index+1}'
         hostname = f"{prefix}.cisco.com"
         host = {}
-        host["username"] = "cisco"
-        host["password"] = "cisco123"
+        host["ansible_user"] = "cisco"
+        host["ansible_password"] = "C1sc0!23"
+        host['ansible_connection'] = 'network_cli'
+        host['ansible_network_os'] = 'ios'
         host["loopback0"] = fake.ipv4()
         host["asn"] = 65538
-        host['os'] = 'ios'
         inventory[hostname] = host
 
     ansible = {}
@@ -32,9 +33,9 @@ def main(num_hosts):
     for host in inventory:
         nornir[host] = {}
         nornir[host]["hostname"] = host
-        nornir[host]["username"] = inventory[host]["username"]
-        nornir[host]["password"] = inventory[host]["password"]
-        nornir[host]["platform"] = inventory[host]["os"]
+        nornir[host]["username"] = inventory[host]["ansible_user"]
+        nornir[host]["password"] = inventory[host]["ansible_password"]
+        nornir[host]["platform"] = inventory[host]["ansible_network_os"]
         nornir[host]["data"] = {}
         nornir[host]["data"]["loopback0"] = inventory[host]["loopback0"]
         nornir[host]["data"]["asn"] = inventory[host]["asn"]

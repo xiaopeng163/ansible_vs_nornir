@@ -6,7 +6,7 @@ from nornir.core.filter import F
 
 
 def logging_show_run(task):
-    
+
     cmd = 'show run'
     output = task.run(
         name='show run',
@@ -19,6 +19,6 @@ def logging_show_run(task):
         content=output.result,
     )
 
-nr = InitNornir(inventory={"options": {"host_file": f"inventory/nornir/inventory-10.yaml"}},)
+nr = InitNornir(inventory={"options": {"host_file": f"inventory/nornir/inventory-30.yaml"}},)
 
 nr.run(logging_show_run)
