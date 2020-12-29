@@ -1,0 +1,1 @@
+docker run --rm -it -v $(pwd):/app xiaopeng163/ansible:2.8.18-py3.7.9 sh
